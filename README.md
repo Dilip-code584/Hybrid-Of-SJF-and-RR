@@ -19,14 +19,20 @@ Installation
 
 Clone the Repository
 
-git clone **https://github.com/yourusername/hybrid-sjf-rr.git**
+git clone https://github.com/Dilip-code584/Hybrid-Of-SJF-and-RR.git
 
 Compile the Source Code
 
-g++ -std=c++11 -o hybrid_scheduler sjf+rr.cpp
+g++ filename.cpp
+
+
 Run the Executable
 
 ./hybrid_scheduler
+
+or just use
+
+./a.out
 
 Usage
 
